@@ -2,7 +2,7 @@
 # Currency Converter - 💲₹ 💶
 ## ⭐ Introduction 
 
-This is Currency Converter web app backend which is build using ReactJS🚀
+This is Currency Converter web app backend which is build using Vite+ReactJS🚀
 
 Deployed using Render -: https://main--currecny-c.netlify.app/
 

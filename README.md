@@ -12,7 +12,7 @@ Deployed using Render -: https://main--currecny-c.netlify.app/
 
 ## Screenshots
 
-![App Screenshot](src\ScreenShots\CurrencyConverter.png)
+![App Screenshot](src/ScreenShots/CurrencyConverter.png)
 
 
 
@@ -63,6 +63,7 @@ Start the server
 ![Logo](https://camo.githubusercontent.com/c541c11ce18a7abaf63765b8dbbee0540892a73d54a6eedf616eec2d13937ce3/68747470733a2f2f6c6f676f6469782e636f6d2f6c6f676f2f3437303330392e706e67)
 ![Logo](https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png)
 ![Logo](https://camo.githubusercontent.com/a9a2d6bf2fca57ecf18a1f129bf6079370f1ceacc6997e873f25d1b4396195e9/68747470733a2f2f636f64652e76697375616c73747564696f2e636f6d2f6173736574732f6170706c652d746f7563682d69636f6e2e706e67)
+![Logo](https://themefisher.com/images/icons/tailwind.svg)
 
 
 
